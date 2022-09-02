@@ -1,8 +1,9 @@
 # tareas-codo-a-codo
 tarea 1
-*crear un repositorio en github
-*crear un html basico que muestre algunas etiquetas semanticas
 
-##opcional
+* crear un repositorio en github
+* crear un html basico que muestre algunas etiquetas semanticas
 
-*armar un documento html que describa quienes son 
+## opcional
+
+* armar un documento html que describa quienes son 
