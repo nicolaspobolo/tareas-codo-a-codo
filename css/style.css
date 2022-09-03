@@ -1,20 +1,35 @@
+body{
+    font-size: 2em;
+}
 header{
     background-color: aquamarine;
+    height: 3em;
 }
 
 nav{
     background-color: aqua;
+    height: 3em;
+}
+
+aside{
+    background-color: chartreuse;
+    height: 5em;
 }
 
 main{
-    background-color: blueviolet;
+    background-color: blueviolet;    
+    height: 10em;    
 }
 
 article{
     background-color: tomato;
+    width: 90%;  
+    height: 2em;  
+    margin: 0.7em auto;
 }
 
 footer{
     background-color: black;
     color: white;
+    height: 3em;
 }
