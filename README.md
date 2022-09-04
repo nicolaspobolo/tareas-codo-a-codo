@@ -7,3 +7,13 @@
 ## opcional
 
 * armar un documento html que describa quienes son 
+
+## tarea 2
+
+* Subir el ejercicio a Netlify o github pages
+* Agregar Bootstrap
+* Cargar un JS y mostrar por consola el objeto document de JS
+
+## opcional
+
+* utilizar un elemento de Bootstrap
